@@ -1,4 +1,4 @@
-Ethlong
+Ape Minders: Trading Cryptocurrency on NFT Signals
 ==============================
 
 Short description of your project.
