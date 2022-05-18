@@ -1,26 +1,7 @@
 Ape Minders: Trading Cryptocurrency on NFT Signals
 ==============================
 
-Short description of your project.
-
-Please read all the instructions in hw3p3.mdbefore submitting your project.
-Above change YourProjectName to your project name. Put a short discription of your project in the first line above.
-Make sure you edit all the files to put in the reponame, your project name where you see YourProjectName and you name instead of "firstname lastname" Please read the cookiecutter documentation. For example:
-
-# Filename: Makefile
-PROJECT_NAME = YourProjectName -> substitute your project name
-
-# config.py
-YourProjectName -> substitute your project name
-reponame -> substitute your repository name
-firstname lastname -> substitute your name
-
-# index.rst
-YourProjectName documentation!
-
-# setup.py
-description='A short description of the project.'
-author='firstname lastname'
+We aim to trade in a universe of seven cryptocurrencies (SOL, ADA, TFUEL, MATIC, MANA, AVAX, FLOW) related to or directly associated with NFT's, using buy and sell signals created from regression on quantitative and alternative NFT features. Quantitative features include number and value of NFT sales, active number of wallets, and more. Alternative features are sentiment features extracted from the text of ~300k daily posts made in the r/NFT subreddit, from 2020-2022. After comparing OLS, random forest, and XGBoost regressor models, we find that the predicted returns of the OLS model, coupled with our strategy, outperforms our market cap weighted index of our universe in the range from 2021-09-19 to 2022-03-20. 
 
 
 Project Organization
